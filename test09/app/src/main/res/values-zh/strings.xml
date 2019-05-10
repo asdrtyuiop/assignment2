@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">test09</string>
+
+
+    <!-- Strings related to login -->
+    <string name="google_maps_api_key" translatable="false">AIzaSyAnMMKVlsmUXW9Apo2HDS8IdTsv4mRwr0s</string>
+    <string name="prompt_email">電子郵件</string>
+    <string name="prompt_password">密碼（可選）</string>
+    <string name="action_sign_in">登錄或註冊</string>
+    <string name="action_sign_in_short">登入</string>
+    <string name="action_sign_out">登出</string>
+    <string name="action_setting_language">設置</string>
+    <string name="error_invalid_email">此電子郵件地址無效</string>
+    <string name="error_invalid_password">此密碼太短</string>
+    <string name="error_incorrect_password">此密碼不正確</string>
+    <string name="error_field_required">這是必填欄</string>
+    <string name="resend_verification_email">重新發送驗證電子郵件</string>
+    <string name="forgot_password">忘記密碼</string>
+    <string name="register">  注冊  </string>
+    <string name="sign_in">登入</string>
+    <string name="password" translatable="false">密碼</string>
+    <string name="tabian_consulting_logo" translatable="false">Tabian Consulting Logo</string>
+    <string name="email_registration">電郵註冊</string>
+    <string name="email">電子郵件</string>
+    <string name="confirm_password">確認密碼</string>
+    <string name="chatroom_name">輸入聊天室名稱</string>
+    <string name="action_CREATE">創建</string>
+    <string name="action_Cancel">取消</string>
+    <string name="profile_iconselect">選擇一個頭像</string>
+    <string name="loction_here">你在此</string>
+
+    <!-- Firestore Strings -->
+    <string name="collection_users">Users</string>
+    <string name="collection_chatrooms">Chatrooms</string>
+    <string name="collection_chat_messages">Chat Messages</string>
+    <string name="collection_chatroom_user_list">User List</string>
+    <string name="collection_user_locations">User Locations</string>
+
+    <!-- Intent extras -->
+    <string name="intent_chatroom" translatable="false">intent_chatroom</string>
+    <string name="intent_user_list" translatable="false">intent_user_list</string>
+    <string name="intent_user_locations" translatable="false">intent_user_locations</string>
+    <string name="intent_location" translatable="false">intent_location</string>
+
+    <!-- Service and Broadcasts -->
+    <string name="gps_location" translatable="false">gps_location</string>
+
+
+    <!-- Fragments Names -->
+    <string name="fragment_user_list">User List</string>
+    <string name="fragment_image_list">Image List</string>
+
+    <!-- Other Strings -->
+    <string name="action_create_chatroom">創建聊天室</string>
+    <string name="action_leave_chatroom">離開聊天室</string>
+    <string name="action_chatroom_user_list">用戶列表</string>
+    <string name="action_profile">個人資訊</string>
+
+
+</resources>
