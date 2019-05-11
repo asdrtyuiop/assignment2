@@ -3,7 +3,7 @@
 
 
     <!-- Strings related to login -->
-    <string name="google_maps_api_key" translatable="false">AIzaSyAnMMKVlsmUXW9Apo2HDS8IdTsv4mRwr0s</string>
+    <string name="google_maps_api_key" translatable="false">00000000000</string>
     <string name="prompt_email">電子郵件</string>
     <string name="prompt_password">密碼（可選）</string>
     <string name="action_sign_in">登錄或註冊</string>
